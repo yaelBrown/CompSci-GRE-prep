@@ -1,20 +1,40 @@
 GRE Exam notes
   https://www.youtube.com/watch?v=Rq5Mq_plWqU
 
+  GRE ERS
+    https://www.ets.org/gre
+
   Cost $200.
 
   Both have; issue essay and argument essay.
-
   Breaks after issue, argument and first section.
-
   Don't guess on which one is the research section.
-
   100 Questions, 2 Essays.
   230 min's w/Break
-
   Part of the test is endurance and stamina.
-
   Sit with content for a minimum of 2 hours a day.
+  All of the test is on the computer
+  Cannot bring anything with you in the room.
+  A good score depends. Depends on the program you are looking at.
+    Harvard - Good score is near perfect
+    UC David - High quantative math score, verbal math score
+  Type in the school you are looking for in google and then type gre score
+    "UT Austin GRE Score"
+  Math sections have a calculator
+  Can take the test more than once. There is a limit.
+    Can only take the test 5 times
+    Once every 21 days
+    Will pay $200 every time.
+  Vocabulary is important
+  Can send only your best scores to schools
+    Has a score select system.
+    Can send the score for free to certain schools.
+    $15-$20 to send score to school
+  ETS Power Prep
+    Full GRE test you can take for free.
+    Learn some strategies and study some Vocabulary.
+  learning a new way to think.
+    Serve you well in life.
 
 Scoring
   Verbal
@@ -60,7 +80,12 @@ Verbal Breakdown
 Quantative (Math) Breakdown
   20 Questions, 4 topics
     Arithmetic
+      #'s, prime factors, % change, etc.
     Algebra
+      x,y,z, equations and word problems where some quantity is unknown
     Geometry
+      Shapes, never deal with the word problems
+      given a shape and asked to solve something
     Data
-
+      probability, analyzing charts, complex counting problems, standard deviation.
+        dont get crazy but does get covered.
